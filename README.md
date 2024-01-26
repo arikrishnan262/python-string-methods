@@ -1,6 +1,7 @@
-String-Methods......
+###String-Methods......###
 
-#capitalize()
+###capitalize()###
+
 name  = "i am developer frome tamilnadu"
 a = name.capitalize()
 print('capitalize--------',a)
